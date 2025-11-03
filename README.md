@@ -1,7 +1,7 @@
 
-Peer reviewed on [this r/LocalLlama thread](https://www.reddit.com/r/LocalLLaMA/comments/1nxqabe/awesome_local_llm_speechtospeech_models_frameworks/) 
+👥 Peer reviewed on [this r/LocalLlama thread](https://www.reddit.com/r/LocalLLaMA/comments/1nxqabe/awesome_local_llm_speechtospeech_models_frameworks/) 
 
-If this list helped you, [star the repo on GitHub](https://github.com/vtleyden/awesome-llm-speech-to-speech/stargazers).
+⭐ If this is a useful resource, [star the repo on GitHub](https://github.com/vtleyden/awesome-llm-speech-to-speech/stargazers).
 
 # Awesome LLM Speech-to-Speech models and frameworks
 
